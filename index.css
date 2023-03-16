@@ -1,0 +1,37 @@
+.container{
+    border: 10px solid black;
+    margin: 20px 500px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.row{
+    border: 5px solid black;
+    
+}
+.col-4{
+    border:5px solid black;
+    margin: 70px 0px 70px 10px;
+    width:10px;
+    padding: 20px;
+}
+.main{
+    display:table-caption;
+}
+label, input {
+    display:table-cell ;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+    font-size: x-large;
+}
+input{
+    height: 50px;
+    width: 500px;
+}
+
